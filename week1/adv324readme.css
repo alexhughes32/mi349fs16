@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+html{ background-image:url(adv324%20readme.jpg)
+}
+
+body {
+	color:#9A9A9A;
+	align:center;
+	text-wrap:normal;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	background-color:#4D4949;
+	border-style:dotted;
+	border-width:thin;
+	border-color:#000000;
+}
+
